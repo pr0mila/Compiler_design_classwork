@@ -1,0 +1,14 @@
+#include<stdio.h>
+/* multiple line
+comment */
+int main()
+{
+int a,b;
+float sum;
+while (a<b)
+{
+a = a+ 10; //addtion
+
+}
+return 0;
+}
